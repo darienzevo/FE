@@ -1,0 +1,13 @@
+h1{
+    color:lightblue;
+    font-weight: bold;
+}
+li {
+    text-decoration: underline;
+}
+img {
+    width:500px;
+    height:300px;
+    border: 2px solid yellow;
+    border-radius: 100px;
+}
